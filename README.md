@@ -2,7 +2,7 @@
 - 👀 I’m interested in Robotics and AI
 - 🌱 I’m currently learning Computer Vision, Data Science and also react
 - 💞️ I’m looking to collaborate on projects related to AI, Robotics and Embedded Systems
-- 📫 How to reach me via my email: which is hussainazmat025@gmail.com
+- 📫 Reach me via my email: which is hussainazmat025@gmail.com
 
 
 <!---
